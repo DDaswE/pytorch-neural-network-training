@@ -4,16 +4,13 @@ Neural-network implementation and PyTorch image-classification workflow covering
 
 ## Preview
 
-<table>
-  <tr>
-    <td width="55%">
-      <img src="./preview_dataset_distribution.png" alt="Garbage classification dataset distribution" width="100%">
-    </td>
-    <td width="45%">
-      <img src="./preview_hyperparameter_heatmap.png" alt="Hyperparameter validation error heatmap" width="100%">
-    </td>
-  </tr>
-</table>
+<img src="./preview_dataset_distribution.png" alt="Garbage classification dataset distribution" width="100%">
+
+**Figure 1.** Garbage-classification image distribution across the training, validation, and test splits.
+
+<img src="./preview_hyperparameter_heatmap.png" alt="Hyperparameter validation error heatmap" width="100%">
+
+**Figure 2.** Validation-error heatmap used to compare CNN learning-rate and batch-size settings.
 
 ## Project summary
 
@@ -21,12 +18,12 @@ This project combines a from-scratch neural network exercise with a PyTorch imag
 
 ## Problem
 
-The assignment asks for two connected neural-network exercises:
+This project aims to practice two connected neural-network workflows:
 
 > 1. Build a simple neural network from scratch to understand how neural networks work.
 > 2. Train a neural network using PyTorch to classify images from the Garbage Classification dataset into seven classes, including battery, biological, cardboard, glass, metal, paper, and plastic.
 
-The assignment also requires distinguishing train/validation/test data, exploring overfitting and underfitting, tuning learning rate and batch size, and comparing a feedforward ANN with a CNN.
+The workflow also covers train/validation/test separation, overfitting and underfitting analysis, learning-rate and batch-size tuning, and comparison between a feedforward ANN and a CNN.
 
 ## Data
 
