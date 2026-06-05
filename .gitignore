@@ -1,0 +1,10 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pt
+*.pth
+*.pkl
+garbage_dataset/
+secret_test/
+secret_testset/
+garbage_model_runs/
