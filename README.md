@@ -2,9 +2,7 @@
 
 Neural-network implementation and PyTorch image-classification workflow covering manual backpropagation, CNN training, hyperparameter tuning, and model evaluation.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11bI5nmgZFFS_w28CnrQZC-9SPHg2jA-K?usp=sharing) [GitHub Repo](https://github.com/DDaswE/pytorch-neural-network-training)
-
-> Opening this notebook in Colab creates a working copy. The source notebook in GitHub remains unchanged unless a user already has write access to this repository.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11bI5nmgZFFS_w28CnrQZC-9SPHg2jA-K?usp=sharing)
 
 ## Preview
 
